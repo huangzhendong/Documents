@@ -1,5 +1,6 @@
 常用排行榜
 ================
+* Ctrl+Alt+T 生成try...catch等代码块
 * Ctrl+Alt+B 查看接口、抽象类的实现类
 * Ctrl+H 显示类结构图
 * Ctrl+Shift+F7 高亮显示选中文本，按Esc高亮消失
